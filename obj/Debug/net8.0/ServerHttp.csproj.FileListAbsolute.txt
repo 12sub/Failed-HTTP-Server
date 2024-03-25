@@ -1,0 +1,14 @@
+C:\dev\ServerHttp\ServerHttp\bin\Debug\net8.0\ServerHttp.exe
+C:\dev\ServerHttp\ServerHttp\bin\Debug\net8.0\ServerHttp.deps.json
+C:\dev\ServerHttp\ServerHttp\bin\Debug\net8.0\ServerHttp.runtimeconfig.json
+C:\dev\ServerHttp\ServerHttp\bin\Debug\net8.0\ServerHttp.dll
+C:\dev\ServerHttp\ServerHttp\bin\Debug\net8.0\ServerHttp.pdb
+C:\dev\ServerHttp\ServerHttp\obj\Debug\net8.0\ServerHttp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ServerHttp\ServerHttp\obj\Debug\net8.0\ServerHttp.AssemblyInfoInputs.cache
+C:\dev\ServerHttp\ServerHttp\obj\Debug\net8.0\ServerHttp.AssemblyInfo.cs
+C:\dev\ServerHttp\ServerHttp\obj\Debug\net8.0\ServerHttp.csproj.CoreCompileInputs.cache
+C:\dev\ServerHttp\ServerHttp\obj\Debug\net8.0\ServerHttp.dll
+C:\dev\ServerHttp\ServerHttp\obj\Debug\net8.0\refint\ServerHttp.dll
+C:\dev\ServerHttp\ServerHttp\obj\Debug\net8.0\ServerHttp.pdb
+C:\dev\ServerHttp\ServerHttp\obj\Debug\net8.0\ServerHttp.genruntimeconfig.cache
+C:\dev\ServerHttp\ServerHttp\obj\Debug\net8.0\ref\ServerHttp.dll
